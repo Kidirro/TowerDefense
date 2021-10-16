@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8a4fa74109ea0fd4ba53953789fe71ef, type: 3}
+  m_Name: Tower1
+  m_EditorClassIdentifier: 
+  Radius: 1
+  Rate: 1
+  Damage: 0
+  Price: 0
+  TowerSprite: {fileID: 21300000, guid: e1f3d2c1f5b197743939dfb47e7b0884, type: 3}
+  TowerChosedSprite: {fileID: 21300000, guid: a9db3a2cd424b4d49989197f582037bd, type: 3}
+  Name: Tower1
+  Description: Standart tower.
+  Collider: 1
+  Target: 0
